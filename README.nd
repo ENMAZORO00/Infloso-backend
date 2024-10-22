@@ -1,0 +1,12 @@
+first create .env file
+/home/shubham/Pictures/Screenshots/Screenshot from 2024-10-22 23-08-53.png
+
+
+with:
+MONGO_URI=your_mongodb_url
+JWT_SECRET=your_jwt_secret
+PORT=5000
+
+
+
+start project: node server.js
